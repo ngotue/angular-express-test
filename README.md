@@ -36,8 +36,13 @@ Ce-ci est un test technique pour En Voiture Simone
 ## Lancement de l'application
 1. **Placez-vous dans le répertoire racine du projet.**
 2. **Construisez et démarrez les conteneurs :**
-    ```bash
-    docker-compose up -d
+    ```docker-compose up -d```
+
+    ou dans les nouvelles versions de docker:
+    ```docker compose up -d```
+
+    ou en cas de problème de permission, et si applicable:
+    ```sudo docker compse up -d```
 
 ## Accès à l'application
 1. **Frontend (Angular) :** Ouvrez votre navigateur et accédez à ```http://localhost```
