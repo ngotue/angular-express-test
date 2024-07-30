@@ -15,7 +15,7 @@ Ce-ci est un test technique pour En Voiture Simone
 - **Docker Compose:** Assurez-vous que Docker Compose est installé. Il est souvent fourni avec Docker Desktop pour Windows et macOS. Si ce n'est pas le cas, suivez les instructions d'installation sur [https://docs.docker.com/compose/install/](https://docs.docker.com/compose/install/).
 - **Git:** Installez Git si vous avez besoin de cloner des dépôts privés. Vous pouvez le télécharger depuis [https://git-scm.com/](https://git-scm.com/).
 
-## Installation - une fois cloné ce repo, suivez les étapes suivantes :
+## Installation - une fois que vous avez cloné ce repo, suivez les étapes suivantes :
 
 1. **Clonez les dépôts git :** Rentrez dans le répertoire de ce repo puis exécutez :
     
