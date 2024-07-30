@@ -1,0 +1,14 @@
+.git
+
+#NPM
+**/node_modules
+
+#Angular
+.angular
+dist
+
+#IDE
+.vscode
+.idea
+*.iml
+*.log

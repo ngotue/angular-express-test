@@ -1,0 +1,10 @@
+.git
+
+#NPM
+**/node_modules
+
+#IDE
+.vscode
+.idea
+*.iml
+*.log
